@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
+import reportWebVitals from "./reportWebVitals";
 
 //REDUX SETUP
 import { applyMiddleware, compose, createStore } from "redux";
